@@ -59,12 +59,7 @@ public class Queueclass {
 			queue.deque();
 			queue.enqueu(i);
 		}
-		for (int i = 0; i < 10; i++) {
-			queue.enqueu(i);
-		}
-		for (int i = 0; i < 10; i++) {
-			queue.deque();
-		}
+		
 		for (int i = 0; i < 10; i++) {
 			queue.enqueu(i);
 		}
